@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+}
+
+nav{
+    background-color: red;
+}
+nav ul{
+    display: flex;
+    gap: 45px;
+}
+
+ul li{
+    display: flex;
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+    list-style: none;
+    color:rgb(60, 255, 0);
+
+}
+/* .right{
+    display: flex;
+    color: blue;
+} */
